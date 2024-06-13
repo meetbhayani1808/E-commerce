@@ -1,10 +1,13 @@
-PORT = 
+Project Setup
 
-MONGO_URL = 
 
-JWT_SECRET =
+In order to spin up the project, in the root create .env with these three variables, with your own values.
 
-JWT_LIFETIME =
+MONGO_URL
+
+JWT_SECRET
+
+JWT_LIFETIME
 
 npm i
 
